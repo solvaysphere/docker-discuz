@@ -1,4 +1,5 @@
 # 基于docker的discuz镜像
+discuz!X3.2
 
 1、启动mysql实例
 
